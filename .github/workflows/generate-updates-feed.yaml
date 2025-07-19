@@ -8,7 +8,7 @@ on:
 jobs:
   update-feeds:
     name: Update RSS-Feeds
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     permissions:
       actions: write
       contents: write
