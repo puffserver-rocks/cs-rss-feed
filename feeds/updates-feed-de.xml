@@ -8,11 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 03 Jul 2025 22:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 17:12:54 +0000</lastBuildDate>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 15.07.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MISC ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Added a description note to Souvenir Highlight Packages explaining that they will become tradable and marketable after 7 days.<br/></li><li class="bbcodes_ListItem_1BF9I">Various stability improvements.<br/></li></ul>]]></description>
+      <description><![CDATA[[ 3. Premium-Saison ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Die dritte Saison des Premium-Modus hat begonnen.<br/></li><li class="bbcodes_ListItem_1BF9I">Overpass wurde zur Kartengruppe des aktiven Dienstes hinzugefügt.<br/></li><li class="bbcodes_ListItem_1BF9I">Anubis wurde aus der Kartengruppe des aktiven Dienstes entfernt.<br/></li></ul><br/>[ GAMEPLAY ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Das Feuer der Brandgranate breitet sich jetzt schneller aus.<br/></li><li class="bbcodes_ListItem_1BF9I">Der Rückstoß der MP9 wurde erhöht und Präzision beim Springen erheblich reduziert.<br/></li><li class="bbcodes_ListItem_1BF9I">Im Premium- und Wettkampfmodus erhalten AT-Einheiten jetzt eine Teamprämie in Höhe von 50 Dollar für jeden in einer Runde eliminierten Terroristen.<br/></li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">b5533f4926976dc9d4b3a2cc870a194e9169c930f8ffb866ac16dab65b4d0d13</guid>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 03.07.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Hinweis zur Beschreibung von Souvenirpaketen mit Highlight hinzugefügt, dass diese nach 7 Tagen gehandelt und im Communitymarkt verkauft werden können.<br/></li><li class="bbcodes_ListItem_1BF9I">Diverse Stabilitätsverbesserungen vorgenommen.<br/></li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">49ba4fb23c330720b3f7a8afd33c33278ef94555e5da3c53938db3411356cf72</guid>
       <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
@@ -120,14 +128,6 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">0487f89c2fe1e2f96c9d8d1899f7d16270881327bc5accf0b6d9df483d55a313</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Counter-Strike 2 – Update vom 03.02.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<br/><ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Visueller Fehler beim Übergang in den Zoom-Modus der AUG bzw. SSG 553 behoben, der in der Nähe von Wasseroberflächen auftrat.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den die Fortschrittsanzeige für das Abzeichen des Premium-Modus bei niedrigen Auflösungen nicht ordnungsgemäß dargestellt wurde.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den einige Elemente der Benutzeroberfläche nicht transparent dargestellt wurden, wenn in den erweiterten Grafikeinstellungen für „Multisampling-Antialiasing-Modus“ die Option „CMAA2“ und für „Hoher Farbkontrast (HDR)“ die Option „Leistung“ gleichzeitig ausgewählt waren.<br/></li><li class="bbcodes_ListItem_1BF9I">Verhalten des dynamischen Zooms der Radarkarte verbessert. Wenn ein Gegner bzw. die Bombe auf dem Radar auftaucht, zoomt das Radar sofort heraus, um dieses Ereignis einzufangen. Wenn diese hingegen wieder vom Radar verschwinden, zoomt das Radar jetzt erst nach einer gewissen Verzögerung auf die festgelegte Zoom-Stufe zurück.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den mit der Einstellung „Radarkartenzoom“ nicht der gesamte mögliche Skalierungsbereich von 0,25 bis 1,0 festgelegt werden konnte.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den die Sounds beim Untersuchen eines Gegenstands mit der Hintergrundkulisse „Train“ auch nach der Rückkehr ins Hauptmenü abgespielt wurden.<br/></li><li class="bbcodes_ListItem_1BF9I">Problem mit Vorhersagefehlern behoben, durch das Spieler in der Nähe von Wänden durch diese spähen konnten.<br/></li><li class="bbcodes_ListItem_1BF9I">Fehlerhafte Darstellung der Kleidung auf einem lokalen Server behoben, wenn beim Laden der Karte der Parameter „loopback=1“ verwendet wurde.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">15f50288f95d3ec78631cb24ed50569f1c12b6b26ea0e8b5bf1b5524a96790ee</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
